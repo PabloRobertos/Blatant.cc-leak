@@ -154,9 +154,9 @@ warn("Low graphics loaded! (" .. math.floor(tick() - a) .. "s)")
      end) 
 local AimingTab = Window:CreateTab("Credits")
           
-  local testSection = AimingTab:CreateSector("PabloTheSkibidi IIV (Rizz King)", "left") 
+  local testSection = AimingTab:CreateSector("PabloRoberto (Rizz King)", "left") 
 
-local testSection = AimingTab:CreateSector("Jesus Is The King (Pray And Jesus Will Forgive You)", "right") 
+local testSection = AimingTab:CreateSector("Lebra James (Da Goat)", "right") 
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
