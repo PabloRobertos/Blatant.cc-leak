@@ -15,10 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PabloRobertos/Elysian
 testSection:AddButton("Sigma Lua Camlock", function(IhateGayPeople)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PabloRobertos/Sigmalua/refs/heads/main/Sigmalua%20Old%20source", true))()
      end) 
-testSection:AddButton("Bate Camlock", function(IhateGayPeople)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PabloRobertos/Bate-camlock/refs/heads/main/Bate%20cam"))();
-     end) 
-testSection:AddButton("White Cam", function(IhateGayPeople)
+testSection:AddButton("White Camlock", function(IhateGayPeople)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mcdofries/FreePaid/refs/heads/main/Protected_6652376762345590.txt"))()
      end)
 testSection:AddButton("Whimsical Cam (Gui)", function(IhateGayPeople)
@@ -26,6 +23,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Aepione/Whimsical.cc-
      end)
 testSection:AddButton("Sential.cc Cam (Gui)", function(IhateGayPeople)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/skidscript/refs/heads/main/gg%20Sential.CC"))()
+     end)
+testSection:AddButton("Bate Cam (Gui)", function(IhateGayPeople)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PabloRobertos/Bate-camlock/refs/heads/main/Bate%20cam"))();
      end)
 
 local testSection = AimingTab:CreateSector(" Random", "right")
