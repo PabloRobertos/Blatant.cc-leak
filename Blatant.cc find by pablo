@@ -167,7 +167,7 @@ local testSection = AimingTab:CreateSector("8nzrq & zenbladi (Orginal Owner)", "
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "Made by 8nzrq x Zenbladi, Subscribe to 8nzrq x Zenbladi";
+Description = "Jesus Is The King!";
 Title = "Blatant.cc Remake By Pablo";
 Duration = 10; 
 })
