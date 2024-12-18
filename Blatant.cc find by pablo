@@ -160,14 +160,14 @@ warn("Low graphics loaded! (" .. math.floor(tick() - a) .. "s)")
      end) 
 local AimingTab = Window:CreateTab("Credits")
           
-  local testSection = AimingTab:CreateSector("8nzrq (best coder)", "left") 
+  local testSection = AimingTab:CreateSector("PabloRoberto (The Remaker)", "left") 
 
-local testSection = AimingTab:CreateSector("zenbladi (2nd best coder)", "right") 
+local testSection = AimingTab:CreateSector("8nzrq & zenbladi (Orginal Owner)", "right") 
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
 Description = "Made by 8nzrq x Zenbladi, Subscribe to 8nzrq x Zenbladi";
-Title = "discord.gg/zAX6qyU2dg";
+Title = "Blatant.cc Remake By Pablo";
 Duration = 10; 
 })
